@@ -1,0 +1,28 @@
+body{
+  color: white;
+
+}
+
+
+/* Top Division */
+.First-Division{
+  text-align: center;
+}
+
+.First-Division h1 {
+  font-size: 4rem;
+}
+
+
+/* HTML PART */
+
+.HTML-Part h1{
+  font-size: 3rem;
+}
+.CSS-Part h1{
+  font-size: 3rem;
+}
+
+.JAVASCRIPT-Part h1{
+  font-size: 3rem;
+}
